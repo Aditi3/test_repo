@@ -4,9 +4,9 @@ Testing git merge and rebase
 
 Hello Hello hello hello
 
-Merge Merge Merge
+Merges Merged Merged
 
-Line 1
+Line 13333
 
 Line 2
 
