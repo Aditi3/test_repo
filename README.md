@@ -5,3 +5,5 @@ Testing git merge and rebase
 Hello Hello hello hello
 
 Merge Merge Merge
+
+Line 1
